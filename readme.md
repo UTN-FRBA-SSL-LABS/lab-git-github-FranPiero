@@ -288,7 +288,6 @@ d) Porque GitHub Classroom lo requiere para la corrección automática
 
 ```
 RESPUESTA_P1=b
-El proposito de usar una "branch", en el caso en que varios esten trabajando en el mismo proyecto, cada uno esta trabajando en el mismo archivo base, pero haciendo las modificaciones por separado, es decir, si alguien modifica algo, no va directamente al programa principal, porque luego un compañero que estaba trabajando al mismo tiempo en otra funcionalidad del programa, tiene que clonar/"pull" el proyecto y no sabe si con las nuevas lineas de codigo que agrego el otro va a seguir funcionando su propio codigo que estaba haciendo, para eso se usan los brunch para trabajar todos juntos pero en archivos separados. 
 ```
 
 ---
@@ -415,7 +414,7 @@ c) Hacer un rebase interactivo para reescribir el historial antes de responder a
 d) Pedirle al owner que mergee igual y hacer el fix en un PR separado
 
 ```
-RESPUESTA_P2=
+RESPUESTA_P2=b
 ```
 
 ---
@@ -496,7 +495,7 @@ c) Porque `git reset --hard` modifica el historial local, generando conflictos p
 d) Porque GitHub bloquea automáticamente los push después de un `git reset --hard`
 
 ```
-RESPUESTA_P3=
+RESPUESTA_P3=c
 ```
 
 ---
